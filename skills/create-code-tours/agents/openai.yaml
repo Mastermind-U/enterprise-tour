@@ -1,0 +1,4 @@
+interface:
+  display_name: "CodeTour"
+  short_description: "Onboarding, causal diffs, and business-logic blocks"
+  default_prompt: "Use $create-code-tours to create concise tours for a domain, diff, or business operation."
